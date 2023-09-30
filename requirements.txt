@@ -12,3 +12,4 @@ spacy
 gensim
 nltk
 wordcloud
+contractions
